@@ -3,4 +3,4 @@ i love git11111122222222333333
 2222223333
 44444
 55555
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
